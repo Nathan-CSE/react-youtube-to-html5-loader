@@ -12,7 +12,6 @@ export default class YouTubeToHtml5 {
         withVideo: true
     }
 
-    class = YouTubeToHtml5;
     options = {};
     hooks = {};
 
