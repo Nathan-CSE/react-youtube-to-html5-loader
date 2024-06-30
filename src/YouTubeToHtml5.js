@@ -1,4 +1,4 @@
-class YouTubeToHtml5 {
+export default class YouTubeToHtml5 {
 
     static globalHooks = {};
 
@@ -502,8 +502,3 @@ if (typeof jQuery !== 'undefined') {
 
     })(jQuery);
 }
-
-/**
- * Export module.
- */
-export default YouTubeToHtml5;
